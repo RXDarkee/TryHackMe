@@ -1,4 +1,4 @@
-# The Hollow Shell — CTF Writeup
+# The Hollow Shell CTF Writeup
 
 | Field       | Details                                      |
 |-------------|----------------------------------------------|
